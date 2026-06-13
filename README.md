@@ -2,10 +2,6 @@
 
 Dynamic FUP je dynamický QoS/FUP balík pro MikroTik RouterOS 7. Řídí IPv4 provoz přes vybraný WAN interface pomocí `mangle`, `queue tree` a `PCQ`. Cíl je férovější rozdělení linky mezi klienty a omezení velkých TCP/QUIC přenosů ve chvíli, kdy je WAN vytížená.
 
-Autor: **Lukáš Kysela**  
-Kontakt: **developer@lukaskysela.cz**  
-Web: **https://www.lukaskysela.cz**
-
 ## Co balík dělá
 
 - férově dělí běžný provoz mezi klienty přes PCQ,
