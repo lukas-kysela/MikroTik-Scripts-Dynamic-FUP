@@ -21,7 +21,6 @@ Dynamic FUP je dynamický QoS/FUP balík pro MikroTik RouterOS 7. Řídí IPv4 p
 | `Dynamic-FUP-Processor.rsc` | Skript spouštěný schedulerem. Dynamicky mění limity front. |
 | `Dynamic-FUP-Uninstall.rsc` | Odinstalace Dynamic FUP objektů. |
 | `CHANGELOG.md` | Přehled změn. |
-| `.gitattributes` | Nastavení konců řádků pro GitHub/Git. |
 
 ## Doporučená instalace
 
