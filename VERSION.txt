@@ -1,0 +1,6 @@
+D-FUP RouterOS 7 v1.1
+Package: D-FUP-RouterOS-7-v1.1.zip
+Author: Lukáš Kysela <developer@lukaskysela.cz>
+Website: https://www.lukaskysela.cz
+Target: MikroTik RouterOS 7
+Build: GitHub documentation update

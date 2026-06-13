@@ -1,0 +1,3 @@
+*.rsc text eol=crlf
+*.md text eol=crlf
+*.txt text eol=crlf
